@@ -39,6 +39,7 @@ button.btn.btn-outline-danger{
     font: 16px Rubix sans-serif;
     padding: 6px 12px;
     color: #DC3545;
+    float: right;
 }
 
 button.btn.btn-danger{
